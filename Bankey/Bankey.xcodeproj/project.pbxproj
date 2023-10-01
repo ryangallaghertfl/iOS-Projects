@@ -14,6 +14,7 @@
 		A10C79C72ABDE649003FFB04 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10C79C62ABDE649003FFB04 /* LoginView.swift */; };
 		A10C79C92AC1E9DA003FFB04 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A10C79C82AC1E9DA003FFB04 /* GradientView.swift */; };
 		A19CB46B2AC9B35A00E7356F /* OnboardingContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CB46A2AC9B35A00E7356F /* OnboardingContainerViewController.swift */; };
+		A19CB46D2AC9BFC600E7356F /* OnboardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19CB46C2AC9BFC600E7356F /* OnboardingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A10C79C62ABDE649003FFB04 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		A10C79C82AC1E9DA003FFB04 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		A19CB46A2AC9B35A00E7356F /* OnboardingContainerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingContainerViewController.swift; sourceTree = "<group>"; };
+		A19CB46C2AC9BFC600E7356F /* OnboardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				A19CB46A2AC9B35A00E7356F /* OnboardingContainerViewController.swift */,
+				A19CB46C2AC9BFC600E7356F /* OnboardingViewController.swift */,
 			);
 			path = Onboarding;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A10C79C72ABDE649003FFB04 /* LoginView.swift in Sources */,
+				A19CB46D2AC9BFC600E7356F /* OnboardingViewController.swift in Sources */,
 				A10C79B52ABDDFEF003FFB04 /* LoginViewController.swift in Sources */,
 				A10C79C92AC1E9DA003FFB04 /* GradientView.swift in Sources */,
 				A19CB46B2AC9B35A00E7356F /* OnboardingContainerViewController.swift in Sources */,
