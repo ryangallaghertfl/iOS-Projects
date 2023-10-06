@@ -32,8 +32,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         dummyViewController.logoutDelegate = self
         
         //window?.rootViewController = loginViewController
-        window?.rootViewController = mainViewController
-        //window?.rootViewController = AccountSummaryViewController()
+        //window?.rootViewController = mainViewController
+        window?.rootViewController = AccountSummaryViewController()
         //window?.rootViewController = onboardingContainerViewController
         mainViewController.selectedIndex = 0
         
